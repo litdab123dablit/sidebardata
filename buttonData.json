@@ -1,0 +1,59 @@
+{
+  "public":
+    [
+      {
+        "name": "Home",
+        "url": "/"
+      }
+    ]
+
+  "private":
+    [
+      {
+        "name": "Page2",
+        "url": "/page2"
+},
+      {
+        "name": "Page3",
+        "url": "/page3"
+},
+      {
+        "name": "Page4",
+        "url": "/page4"
+},
+      {
+        "name": "Page5",
+        "url": "/page5"
+},
+      {
+        "name": "Page6",
+        "url": "/page6"
+},
+      {
+        "name": "Page7",
+        "url": "/page7"
+},
+      {
+        "name": "Page8",
+        "url": "/page8"
+},
+      {
+        "name": "Page9",
+        "url": "/page9"
+},
+      {
+        "name": "Page10",
+        "url": "/page10"
+},
+      {
+        "name": "Page11",
+        "url": "/page11"
+},
+      {
+        "name": "Page12",
+        "url": "/page12"
+}
+
+    ]
+
+}
